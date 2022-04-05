@@ -146,6 +146,7 @@ h1 {
 #profile-desc {
     width: 100%;
     float: left;
+	text-align: justify;
 }
 
 /**************************************************/
